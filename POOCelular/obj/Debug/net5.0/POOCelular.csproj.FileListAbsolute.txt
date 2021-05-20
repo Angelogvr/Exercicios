@@ -1,0 +1,16 @@
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\bin\Debug\net5.0\POOCelular.exe
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\bin\Debug\net5.0\POOCelular.deps.json
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\bin\Debug\net5.0\POOCelular.runtimeconfig.json
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\bin\Debug\net5.0\POOCelular.runtimeconfig.dev.json
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\bin\Debug\net5.0\POOCelular.dll
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\bin\Debug\net5.0\ref\POOCelular.dll
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\bin\Debug\net5.0\POOCelular.pdb
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\obj\Debug\net5.0\POOCelular.csprojAssemblyReference.cache
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\obj\Debug\net5.0\POOCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\obj\Debug\net5.0\POOCelular.AssemblyInfoInputs.cache
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\obj\Debug\net5.0\POOCelular.AssemblyInfo.cs
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\obj\Debug\net5.0\POOCelular.csproj.CoreCompileInputs.cache
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\obj\Debug\net5.0\POOCelular.dll
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\obj\Debug\net5.0\ref\POOCelular.dll
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\obj\Debug\net5.0\POOCelular.pdb
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios de entrega\POOCelular\obj\Debug\net5.0\POOCelular.genruntimeconfig.cache
